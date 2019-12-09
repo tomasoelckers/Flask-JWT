@@ -7,6 +7,7 @@
   * flask_sqlalchemy
   * flask_jwt_extended
   * passlib
+  * pyOpenSSL
 
   > pip install -r requirements.txt
 

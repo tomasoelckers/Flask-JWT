@@ -37,5 +37,5 @@ api.add_resource(resources.TokenRefresh, '/token/refresh')
 api.add_resource(resources.AllUsers, '/users')
 api.add_resource(resources.SecretResource, '/secret')
 
-if __name__ ==='__main__':
+if __name__ =='__main__':
     app.run(debug=True, host='0.0.0.0')

@@ -8,7 +8,7 @@
   * flask_jwt_extended
   * passlib
 
-  > pip install flask flask-restful flask-jwt-extended passlib flask-sqlalchemy
+  > pip install -r requirements.txt
 
 * Structure of the project:
 
@@ -21,4 +21,3 @@
   ```
 * Start server with the following command:
   > FLASK_APP=run.py FLASK_DEBUG=1 flask run
-
